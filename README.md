@@ -1,7 +1,7 @@
-# chatgpt-pwn
+# pwnlib
 
 ![Y](https://i.pinimg.com/originals/fa/59/6c/fa596cea24a101c9efbe209235c8b832.gif)
-Pwn binary exploitation CTF from ChatGPT - Module 1 💌
+Pwn binary exploitation CTF its a random resource from internet 💌
 
 ### Modules
 1. Buffer Overflow (BOF)
@@ -15,3 +15,6 @@ Pwn binary exploitation CTF from ChatGPT - Module 1 💌
   - exploit_education
   - rop_emporium
   - binary_exploitation_101
+
+
+#### thx u, folk!
