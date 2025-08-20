@@ -9,3 +9,9 @@ Pwn binary exploitation CTF from ChatGPT - Module 1 💌
    - bof2.c — buffer overflow with fgets
    - bof3.c — overflow with function argument (0xdeadbeef)
    - bof4.c — overflow with stack canary
+
+2. cryptocat modules (pwn)
+  - GLIBC_2.34
+  - exploit_education
+  - rop_emporium
+  - binary_exploitation_101
